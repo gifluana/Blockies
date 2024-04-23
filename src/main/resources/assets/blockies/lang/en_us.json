@@ -1,0 +1,9 @@
+{
+  "itemgroup.blockies_blocks_group": "Blockies! - Non-CTM Blocks",
+  "itemgroup.blockies_ctm_blocks_group": "Blockies! - CTM Blocks",
+
+  "block.blockies.arcane_infused_stone": "Arcane Infused Stone",
+  "block.blockies.arcane_infused_stone_ctm": "Arcane Infused Stone (CTM)",
+  "block.blockies.tooltip.arcane_infused_stone": "Place on a Crafting slot to transform into a CTM version.",
+  "block.blockies.tooltip.arcane_infused_stone_ctm": "Place on a Crafting slot to transform into a Non-CTM version."
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraft:block/air"
+    }
+  },
+
+  "athena:loader": "athena:ctm",
+  "ctm_textures": {
+    "center": "blockies:block/arcane_infused_stone/ctm/arcane_infused_stone_center",
+    "empty": "blockies:block/arcane_infused_stone/ctm/arcane_infused_stone_empty",
+    "horizontal": "blockies:block/arcane_infused_stone/ctm/arcane_infused_stone_horizontal",
+    "particle": "blockies:block/arcane_infused_stone/ctm/arcane_infused_stone_particle",
+    "vertical": "blockies:block/arcane_infused_stone/ctm/arcane_infused_stone_vertical"
+  }
+}
