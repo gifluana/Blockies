@@ -14,6 +14,6 @@ public class ModItems {
 
 
     public static void registerModItems() {
-        Blockies.LOGGER.info("Registering Items for: " + Blockies.MOD_NAME);
+        Blockies.LOGGER.info(Blockies.MOD_NAME + " - Registering Items.");
     }
 }

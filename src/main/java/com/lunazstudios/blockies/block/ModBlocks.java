@@ -31,6 +31,6 @@ public class ModBlocks {
     }
 
     public static void registerModBlocks() {
-        Blockies.LOGGER.info("Registering blocks for: " + Blockies.MOD_NAME);
+        Blockies.LOGGER.info(Blockies.MOD_NAME + " - Registering Blocks.");
     }
 }
