@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_arcane_infused_stone_ctm": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "blockies:arcane_infused_stone_ctm"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:arcane_infused_stone_ctm_to_non_ctm"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_arcane_infused_stone_ctm",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:arcane_infused_stone_ctm_to_non_ctm"
+    ]
+  },
+  "sends_telemetry_event": false
+}

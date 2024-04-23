@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "blockies:arcane_infused_stone_ctm"
+    }
+  ],
+  "result": {
+    "item": "blockies:arcane_infused_stone"
+  }
+}
